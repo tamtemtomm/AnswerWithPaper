@@ -1,0 +1,4 @@
+nltk==3.8.1
+scikit-learn==1.4.2
+pypdf==4.2.0
+autocorrect==2.6.1
